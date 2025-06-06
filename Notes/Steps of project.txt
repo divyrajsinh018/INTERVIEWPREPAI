@@ -1,0 +1,57 @@
+MERN Stack Project: Build an AI-Powered Interview Prep App (React, Node.js, MongoDB)
+
+git : zala@divyrajsinh18
+
+Frontend
+
+00:00 - Demo of Interview Preparation AI App  
+07:28 - Setting Up React App  
+09:30 - Tailwind CSS v4 Setup  
+11:15 - Creating Project Structure (Files & Folders)  
+12:37 - Installing Required Libraries  
+15:24 - Defining App Routes  
+17:42 - Creating Landing Page UI  
+32:09 - Building Login Popup Form UI  
+38:13 - Building Sign-Up Popup Form UI  
+
+Backend
+
+49:59  - Backend Project Setup  
+53:00  - Creating Project Structure (Files & Folders)  
+56:35  - Defining User MongoDB Schema  
+57:20  - Defining Question MongoDB Schema  
+58:06  - Defining Session MongoDB Schema  
+59:11  - Connecting to MongoDB  
+
+01:04:24 - Creating Authentication APIs (Login, Sign-Up, Get Profile Info, Image Upload)  
+01:19:48 - Creating Session APIs (Create, Get All Sessions, Get Session By ID, Delete Session)  
+01:29:03 - Creating Question APIs (Add Question to Section, Pin a Question)  
+01:37:25 - Creating AI APIs (Generate Interview Questions and Concept Explanations)  
+
+Frontend (Continued)
+
+01:45:32 - Defining API Paths  
+01:45:53 - Creating Axios Instance  
+01:47:55 - Integrating Login API  
+01:49:32 - Creating User Context Provider  
+01:57:35 - Integrating Sign-Up API  
+
+
+Dashboard Page
+
+02:02:39 - Creating Dashboard Layout  
+02:08:18 - Fetching All Sessions from Backend  
+02:10:32 - Creating Dashboard Summary Card UI  
+02:17:40 - Creating Session Form Popup  
+02:23:35 - API Call to Create New Session  
+
+Interview Prep Page
+
+02:27:31 - Building Interview Prep Page UI  
+02:35:00 - Fetching Session Details by ID  
+02:39:15 - Creating Interview Q&A Card UI  
+02:45:00 - Creating UI Component to Render AI Response  
+02:54:41 - Function to Pin Q&A Card to Top of the List  
+02:57:52 - Function to Generate Concept Explanation Using AI  
+03:05:11 - Implementing Load More Functionality  
+03:10:07 - Implementing Delete Session Functionality  
